@@ -20,33 +20,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "contact"
+name = "contact"
+weight = 6
 [[menu.main]]
-URL = "services"
-name = "services"
+URL = "blog"
+name = "blog"
+weight = 5
+[[menu.main]]
+URL = "team"
+name = "team"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
 weight = 4
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
+URL = "services"
+name = "services"
+weight = 3
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
+URL = "about"
+name = "about"
+weight = 1
 [[menu.static]]
-URL = "https://twitter.com/javedali99/"
-name = "Javed Ali"
-weight = 8
+URL = "https://themefisher.com/"
+name = "themefisher"
+weight = 1
 [params]
 author = "Water Youth Network"
 description = "Connecting Young Professionals Across Disciplines Working on Early Warning Systems"
