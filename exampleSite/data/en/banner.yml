@@ -9,5 +9,5 @@ banner:
     Systems
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Join the Network
+    link: https://goo.gl/forms/DlOmoLF0ps48KRs03
