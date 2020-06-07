@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/logo.png
-  bg_image: images/logo.png
+  bg_image_webp: images/web.png
+  bg_image: images/web.png
   icon: ''
   title: EWS Young Professionals Network
   content: Connecting Young Professionals Across Disciplines Working on Early Warning
