@@ -7,5 +7,5 @@ cta:
   content: ''
   button:
     enable: true
-    label: Start a project with us
+    label: Tell Us About Your Work
     link: "#contact"
