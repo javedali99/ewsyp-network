@@ -44,8 +44,8 @@ URL = "contact"
 name = "contact"
 weight = 7
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
+URL = "https://twitter.com/javedali99/"
+name = "Javed Ali"
 weight = 8
 [params]
 author = "Water Youth Network"
