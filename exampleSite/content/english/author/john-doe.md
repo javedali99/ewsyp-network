@@ -7,7 +7,7 @@ social:
   link: "#"
 - icon: ti-twitter-alt
   link: "#"
-- icon: ti-github
+- icon: ti-linkedin
   link: "#"
 
 ---
