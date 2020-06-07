@@ -3,6 +3,12 @@ team:
   enable: true
   title: Coordination Team
   team_member:
+  - name: Erika
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.jpg
+    designation: ''
+    content: ''
+    social: ''
   - name: Lydia Cumiskey
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
