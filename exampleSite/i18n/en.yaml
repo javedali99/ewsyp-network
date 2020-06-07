@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -17,7 +18,7 @@
 - id: services
   translation: Service
 - id: portfolio
-  translation: Portfolio
+  translation: Resources
 - id: team
   translation: Team
 - id: pricing
@@ -26,5 +27,3 @@
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
