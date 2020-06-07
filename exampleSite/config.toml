@@ -55,7 +55,7 @@ weight = 8
 author = "Water Youth Network"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo-text-default-custom.jpg"
+logo = "images/logo.png"
 post_share = true
 [params.map]
 enable = false
