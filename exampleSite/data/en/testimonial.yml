@@ -1,26 +1,27 @@
-################################# Testimonial #########################
+---
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Scientist, United Kingdom
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: |-
+      Technologically, we are able to do it. We are able to provide the science. We have the computational power. We have the global forecasts at reasonable
+      resolutions. They are not perfect but we are able to do them. The big problem is the translation of that information into actual actionable decisions at local scales. I think that gap is still massive.
+  - name: Mark Dinn
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: Dec 26, 2018
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Lemos Kail
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
