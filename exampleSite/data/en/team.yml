@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Coordination Team
   team_member:
   - name: Lydia Cumiskey
     image_webp: images/team/team-4.webp
