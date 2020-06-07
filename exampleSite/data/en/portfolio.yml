@@ -25,7 +25,7 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Bottol Label
+  - name: Disaster Risk Reduction
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
