@@ -10,7 +10,7 @@ portfolio:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://mhews.wmo.int/
-  - name: Sound system
+  - name: Hydrological Forecasting
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
