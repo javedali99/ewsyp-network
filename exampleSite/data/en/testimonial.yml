@@ -15,7 +15,7 @@ testimonial:
   - name: Scientist, United Kingdom
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
+    date: ''
     content: |-
       Technologically, we are able to do it. We are able to provide the science. We have the computational power. We have the global forecasts at reasonable
       resolutions. They are not perfect but we are able to do them. The big problem is the translation of that information into actual actionable decisions at local scales. I think that gap is still massive.
