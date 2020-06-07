@@ -87,14 +87,14 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-instagram"
-link = "https://www.instagram.com/wateryouthnet/"
+icon = "ti-twitter-alt"
+link = "https://twitter.com/wateryouthnet/"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/WaterYouthNetwork/"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/wateryouthnet/"
+icon = "ti-instagram"
+link = "https://www.instagram.com/wateryouthnet/"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UClyPB1mCHOP0zdexxaN7HUQ"
