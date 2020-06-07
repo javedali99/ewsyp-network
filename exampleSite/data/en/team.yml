@@ -3,19 +3,6 @@ team:
   enable: true
   title: Coordination Team
   team_member:
-  - name: Nikos
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Member Management
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
   - name: Lydia Cumiskey
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
@@ -88,4 +75,17 @@ team:
     - icon: ti-linkedin
       link: "#"
     - icon: ti-dribbble
+      link: "#"
+  - name: Nikos
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Member Management
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+      ullam, culpa odio.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
       link: "#"
