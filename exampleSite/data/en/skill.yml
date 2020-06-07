@@ -10,7 +10,7 @@ skill:
   skill_item:
   - name: Hydrological Forecasting
     percent: 90%
-  - name: Analysis
+  - name: Risk Analysis
     percent: 70%
   - name: Design
     percent: 80%
