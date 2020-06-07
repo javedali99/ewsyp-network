@@ -29,7 +29,7 @@ name = "services"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Resources"
 weight = 3
 [[menu.main]]
 URL = "team"
