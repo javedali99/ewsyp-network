@@ -3,6 +3,8 @@ title: Javed Ali
 image: ''
 email: j.ali@wateryouthnetwork.org
 social:
+- icon: ti-email
+  link: "#"
 - icon: ti-twitter-alt
   link: "#"
 - icon: ti-linkedin
