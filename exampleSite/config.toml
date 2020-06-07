@@ -52,13 +52,13 @@ URL = "https://themefisher.com/"
 name = "themefisher"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Water Youth Network"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -88,11 +88,11 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/WaterYouthNetwork/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
