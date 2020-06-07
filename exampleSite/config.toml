@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "EWS Young Professionals Network"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "Copyright &copy; 2020 [Water Youth Network](http://www.wateryouthnetwork.org/). Created by [Javed Ali](https://twitter.com/javedali99/). All right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
