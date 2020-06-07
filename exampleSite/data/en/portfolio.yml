@@ -48,7 +48,8 @@ portfolio:
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
-    categories: []
+    categories:
+    - community-based EWS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
