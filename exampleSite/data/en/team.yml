@@ -98,5 +98,6 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: DRR
-    content: ''
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+      ullam, culpa odio.
     social: ''
