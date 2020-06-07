@@ -11,13 +11,19 @@ testimonial:
     content: |-
       Technologically, we are able to do it. We are able to provide the science. We have the computational power. We have the global forecasts at reasonable
       resolutions. They are not perfect but we are able to do them. The big problem is the translation of that information into actual actionable decisions at local scales. I think that gap is still massive.
-  - name: Mark Dinn
+  - name: Researcher, France
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
     date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content: 'I think one of the challenges is to bring new ideas to the existing
+      system. It is not only about how to convince people, but also how to show the
+      value of new opportunities, new data, new techniques. It’s sometimes difficult
+      to bring changes to existing systems and I think this can be an important role
+      for the young professionals: to make a connection that helps to bridge the gap
+      between existing systems and new opportunities that might better fit the operational
+      reality of the field.
+
+'
   - name: Lemos Kail
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
