@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Multi-hazards Early Warning System
+  title: Multi-hazards EWS
   service_item:
   - name: Risk Knowledge
     icon: ti-world
