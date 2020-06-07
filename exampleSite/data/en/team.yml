@@ -95,8 +95,8 @@ team:
     - icon: ti-linkedin
       link: "#"
   - name: Rollis
-    image_webp: ''
-    image: ''
-    designation: ''
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: DRR
     content: ''
     social: ''
