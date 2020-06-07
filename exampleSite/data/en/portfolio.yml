@@ -3,13 +3,13 @@ portfolio:
   enable: true
   title: Resources
   portfolio_item:
-  - name: Tag Design
+  - name: Early Warning Systems
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    link: https://mhews.wmo.int/
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
