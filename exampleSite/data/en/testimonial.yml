@@ -4,6 +4,14 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Sociologist, Argentina
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: ''
+    content: |-
+      When I started this job, my boss sent me to the hydrological forecasting department for a couple of months. This was funny, because I am a sociologist!
+      Now I understand that, in order to see the whole picture and create relevant people-centred EWSs, we need to work with all types of backgrounds! From
+      my experience, once you adopt an interdisciplinary approach, you can’t go back! This is the future.
   - name: Scientist, United Kingdom
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
