@@ -9,7 +9,13 @@ team:
     designation: DRR
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
-    social: ''
+    social:
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ''
+      link: ''
+    - icon: ''
+      link: ''
   - name: Lydia Cumiskey
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
