@@ -6,7 +6,8 @@ portfolio:
   - name: Early Warning Systems
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
-    categories: []
+    categories:
+    - early warning system
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://mhews.wmo.int/
   - name: Hydrological Forecasting
