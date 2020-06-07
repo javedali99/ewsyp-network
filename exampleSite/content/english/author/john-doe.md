@@ -1,7 +1,7 @@
 ---
 title: Javed Ali
 image: ''
-email: email2@example.org
+email: j.ali@wateryouthnetwork.org
 social:
 - icon: ti-facebook
   link: "#"
