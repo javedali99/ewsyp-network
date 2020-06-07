@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Lydia Cumiskey
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.jpg
     designation: Coordinator
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
