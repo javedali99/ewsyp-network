@@ -42,8 +42,6 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
-      link: "#"
   - name: Javed
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
