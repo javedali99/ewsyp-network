@@ -101,10 +101,4 @@ icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UClyPB1mCHOP0zdexxaN7HUQ"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+link = "https://www.linkedin.com/groups/13842541/"
