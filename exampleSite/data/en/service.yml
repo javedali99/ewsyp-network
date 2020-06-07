@@ -3,7 +3,7 @@ service:
   enable: true
   title: Multi-hazards Early Warning System
   service_item:
-  - name: WordPress Theme
+  - name: Risk Knowledge
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
