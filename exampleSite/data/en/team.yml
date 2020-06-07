@@ -76,10 +76,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Nikos
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Member Management
+  - name: Dewi
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.webp
+    designation: DRR
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -89,10 +89,10 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-  - name: Dewi
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.webp
-    designation: DRR
+  - name: Nikos
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Member Management
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
