@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-thought
     title: UNDERSTAND CHALLENGES & NEEDS
     content: Collect evidence on how young professionals identify with the challenges
       in current EWSs, the role they play in bridging those gaps and the support mechanisms
