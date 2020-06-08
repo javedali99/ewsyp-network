@@ -64,8 +64,8 @@ team:
     - icon: ti-linkedin
       link: "#"
   - name: Adele
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+    image_webp: images/adele.webp
+    image: images/adele.jpg
     designation: EWS Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
