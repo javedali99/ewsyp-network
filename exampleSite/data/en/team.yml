@@ -94,8 +94,8 @@ team:
     - icon: ti-linkedin
       link: "#"
   - name: Nikos
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: images/nikos.webp
+    image: images/nikos.jpg
     designation: Member Management
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
