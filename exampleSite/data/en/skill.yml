@@ -2,8 +2,7 @@
 skill:
   enable: true
   title: Members' Skills
-  subtitle: Members of the EWSYP Network are skilled in wide range of disater risk
-    management and early warning system tools.
+  subtitle: ''
   content: ''
   image: "/images/ews.png"
   skill_item:
