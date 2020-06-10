@@ -23,7 +23,5 @@
   translation: Team
 - id: blog
   translation: Blog
-- id: partners
-  translation: Partners
 - id: contact
   translation: Contact
