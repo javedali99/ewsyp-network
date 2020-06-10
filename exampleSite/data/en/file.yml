@@ -24,3 +24,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
 title: partners.yml
+menu:
+  main:
+    name: partners
+    weight: 6
