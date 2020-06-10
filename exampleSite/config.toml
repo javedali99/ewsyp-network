@@ -86,6 +86,13 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/wateryouthnet/"
