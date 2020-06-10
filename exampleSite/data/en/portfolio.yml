@@ -4,8 +4,8 @@ portfolio:
   title: Resources
   portfolio_item:
   - name: Early Warning Systems
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/org.png
+    image_webp: images/org.webp
     categories:
     - early warning system
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
