@@ -8,7 +8,7 @@ skill:
   image: "/images/ews.png"
   skill_item:
   - name: Risk Visualization
-    percent: "70"
+    percent: 70%
   - name: Hydrological Forecasting
     percent: 90%
   - name: Risk Analysis
