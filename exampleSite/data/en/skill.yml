@@ -7,11 +7,13 @@ skill:
   content: ''
   image: "/images/ews.png"
   skill_item:
-  - name: Risk Visualization
-    percent: 70%
+  - name: Flood Risk Management
+    percent: 80%
   - name: Hydrological Forecasting
     percent: 90%
   - name: Risk Analysis
+    percent: 70%
+  - name: Risk Visualization
     percent: 70%
   - name: Risk Communication
     percent: 80%
