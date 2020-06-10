@@ -18,8 +18,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Weather Extremes
-    image: images/ews2.png
-    image_webp: images/ews2.webp
+    image: images/3.png
+    image_webp: images/3.webp
     categories:
     - 'forecasting '
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
