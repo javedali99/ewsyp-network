@@ -4,9 +4,7 @@ skill:
   title: Members' Skills
   subtitle: Members of the EWSYP Network are skilled in wide range of disater risk
     management and early warning system tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  content: ''
   image: "/images/ews.png"
   skill_item:
   - name: Hydrological Forecasting
