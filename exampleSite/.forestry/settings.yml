@@ -23,11 +23,6 @@ sections:
   match: "**/*"
   templates:
   - author
-- type: directory
-  path: exampleSite/data/en
-  label: Pages
-  create: all
-  match: "**/*"
 - type: heading
   label: Data
 - type: directory
