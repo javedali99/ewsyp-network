@@ -1,4 +1,6 @@
 ---
+- id: portfolio
+  translation: Partners
 - id: blogTitle
   translation: Latest Post
 - id: readMore
