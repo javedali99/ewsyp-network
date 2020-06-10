@@ -1,4 +1,10 @@
 ---
 label: partners
 hide_body: false
-fields: []
+fields:
+- name: partners
+  type: file
+  config:
+    maxSize: 64
+  label: Partners
+  hidden: false
