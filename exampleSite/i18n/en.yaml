@@ -23,7 +23,7 @@
   translation: Team
 - id: blog
   translation: Blog
-- id: partners.yml
+- id: partners
   translation: Partners
 - id: contact
   translation: Contact
