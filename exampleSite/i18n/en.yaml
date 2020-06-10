@@ -1,6 +1,4 @@
 ---
-- id: partners
-  translation: Partners
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -25,5 +23,7 @@
   translation: Team
 - id: blog
   translation: Blog
+- id: partners
+  translation: Partners
 - id: contact
   translation: Contact
