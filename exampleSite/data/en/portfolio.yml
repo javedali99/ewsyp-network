@@ -11,8 +11,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://mhews.wmo.int/
   - name: Hydrological Forecasting
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/ews-finale-march-02.png
+    image_webp: images/ews-finale-march-02.webp
     categories:
     - disaster risk management
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
