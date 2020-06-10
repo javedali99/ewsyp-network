@@ -21,8 +21,6 @@
   translation: EWS
 - id: portfolio
   translation: Resources
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
